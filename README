@@ -1,0 +1,11 @@
+ratd - Daemon for Route Reconstruction
+
+This program is an user-space daemon. It performs a route reconstruction procedure after an attack. At the end of the process, the real packet source and the attack route are informed to the user. For more information, please visit: http://www.gta.ufrj.br/rat/rat_system.html
+
+See INSTALL for building instructions, COPYING for
+the license.
+
+After installing, you have to configure your system. See "user-manual.pdf" for details.
+
+-- Marcelo Duffles Donato Moreira <marcelo@gta.ufrj.br>
+December 13th, 2005
